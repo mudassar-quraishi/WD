@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "user 2",
+      "address": "mca"
+    },
+    {
+      "id": "3",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "7",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "8",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "9",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "10",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "11",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "12",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "13",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "14",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "15",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "16",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "17",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "18",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "19",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "20",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "21",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "22",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "23",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "24",
+      "name": "user 5",
+      "address": "Ghaziabad"
+    },
+    {
+      "id": "5",
+      "name": "user 5",
+      "address": "muradnagar"
+    },
+    {
+      "id": "1",
+      "name": "user 1",
+      "address": "its"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
